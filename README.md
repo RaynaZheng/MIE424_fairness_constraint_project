@@ -36,6 +36,9 @@ _USCensus1990_clean_iClass.csv_: Cleaned data (by _MIE424Project_USCensus_Pandas
 _USCensus1990raw.attributes.txt_: Data description downloaded with the data files. 
 
 
+#### img folder
+This folder contains all the plots generated through the experiments, _demo_org_x.png_ are plots generated with the _Adult_Income_data_, and _demo_new_x.png_ are plots for new dataset. 
+
 
 ### Reference 
 [Fairness Constraints: Mechanisms for Fair Classification](https://github.com/wnstlr/fair-classification) 
